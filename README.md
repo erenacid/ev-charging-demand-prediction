@@ -61,9 +61,6 @@ The prediction script creates an example using the most common categorical value
 - `data/processed/`: Contains the processed dataset used for modeling.
 - `models/`: Contains the saved model.
 
-## Contact
-
-For questions, contact Aditi Babar at ababar@charlotte.edu.
 
 ## License
 
