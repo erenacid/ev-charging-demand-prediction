@@ -1,1 +1,11 @@
-
+station_id,location_type,vehicle_type,battery_capacity_kWh,initial_soc,queue_length,station_load,electricity_price,renewable_energy_ratio,traffic_density,weather_condition,day_of_week,time_slot,charging_demand
+station_01,urban,sedan,75,35,4,0.71,0.18,0.52,heavy,sunny,Monday,08:00,16.8
+station_01,urban,sedan,78,40,2,0.68,0.17,0.49,medium,cloudy,Tuesday,09:00,14.4
+station_02,suburban,suv,90,50,6,0.82,0.21,0.62,heavy,rainy,Wednesday,10:00,22.7
+station_02,suburban,suv,92,45,5,0.79,0.22,0.60,medium,sunny,Thursday,11:00,20.2
+station_03,urban,sedan,72,30,3,0.66,0.16,0.55,low,cloudy,Friday,12:00,13.1
+station_03,urban,sedan,74,38,4,0.70,0.18,0.58,medium,sunny,Saturday,13:00,17.5
+station_04,rural,bus,120,42,8,0.88,0.25,0.65,heavy,rainy,Sunday,14:00,29.6
+station_04,rural,bus,118,47,7,0.85,0.23,0.63,medium,cloudy,Monday,15:00,27.1
+station_05,urban,sedan,80,41,5,0.74,0.19,0.57,heavy,sunny,Tuesday,16:00,18.9
+station_05,urban,sedan,82,43,6,0.78,0.20,0.59,medium,rainy,Wednesday,17:00,19.6
