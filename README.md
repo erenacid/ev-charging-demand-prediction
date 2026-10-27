@@ -64,7 +64,7 @@ The prediction script creates an example using the most common categorical value
 
 ## License
 
-[Add a link to your group's license file here once the file has been added.]
+https://github.com/erenacid/ev-charging-demand-prediction/blob/d4543c0968de28cea77af2e1257b0a2dc7dbc6e1/LICENSE
 
 ## Contact
 
