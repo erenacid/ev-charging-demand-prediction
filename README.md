@@ -65,3 +65,8 @@ The prediction script creates an example using the most common categorical value
 ## License
 
 [Add a link to your group's license file here once the file has been added.]
+
+## Contact
+
+If you have questions about this project, please contact [Aditi Babar] at [ababar@charlotte.edu].
+You can also report questions or issues through the [GitHub Issues](https://github.com/erenacid/ev-charging-demand-prediction/issues) page.
